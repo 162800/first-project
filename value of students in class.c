@@ -15,3 +15,4 @@ int main()
     printf("the number of absent %.0lf", absent);
     
     return 0;
+}
